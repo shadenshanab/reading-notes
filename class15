@@ -1,0 +1,32 @@
+# class 15
+
+## What is OAuth?
+
+### The open-standard authorization framework or protocol known as OAuth explains how unconnected servers and services can securely permit authorized access to their resources without actually disclosing the initial, associated, single logon credential. This is referred to as secure, third-party, user-agent, delegated permission in authentication jargon
+
+## Give an example of what using OAuth would look like.
+
+### The simplest instance of OAuth is when you attempt to enter into a website and it provides one or more options to do so by using the logon credentials of another website or service.
+
+## How does OAuth work? What are the steps that it takes to authenticate the user?
+
+1. The first website uses OAuth to connect to the second website on behalf of the user, revealing the user's verified identity.
+
+2. The second site creates a one-time token and a one-time secret that are specific to the transaction and parties involved.
+
+3. This token and secret are provided by the first site to the initiating user's client software.
+
+4. The request token and secret are presented to the authorization provider by the client's software (which may or may not be the second site).
+
+5. If the client has not already authenticated with the authorization provider, he or she may be asked to do so.
+
+6. Following authentication, the client is prompted to authorize the transaction to the second website.
+
+7. At the first website, the user approves (or their software silently approves) a specific transaction type.
+
+8. The second website allows the first website to access their site on the user's behalf.
+A successfully completed transaction is visible to the user.
+
+9. OAuth is not the first authentication/authorization system to work in this manner on the end-behalf. user's In fact, many authentication systems, most notably Kerberos, operate in a similar manner. What makes OAuth unique is its ability to work across the web and its widespread adoption. It achieved adoption rates where previous attempts had failed (for various reasons).cs
+
+-------------------------
