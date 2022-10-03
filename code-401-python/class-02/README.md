@@ -26,6 +26,16 @@
 
 ### A recursive function solves a specific problem by calling itself and solving smaller subproblems of the original problem. As and when needed, many more recursive calls can be generated. It is critical to understand that we must provide a specific case in order to end this recursion process. So we can say that the function calls itself with a simplified version of the original problem every time
 
+### Recursion is a fantastic technique that allows us to shorten our code and make it easier to read and write. It has a number of advantages over the iteration technique, which will be discussed further below. Recursion is one of the best solutions for a task that can be defined by its similar subtask. For instance, consider the Factorial of a number
+
+### Recursion Characteristics:-
+
+- Performing the same operations with different inputs multiple times.
+
+- We try smaller inputs at each step to make the problem smaller.
+
+- A base condition is required to terminate the recursion; otherwise, an infinite loop will occur.
+
 ---------
 
 ### <3
