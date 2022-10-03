@@ -25,3 +25,7 @@
 ---------
 
 ### A recursive function solves a specific problem by calling itself and solving smaller subproblems of the original problem. As and when needed, many more recursive calls can be generated. It is critical to understand that we must provide a specific case in order to end this recursion process. So we can say that the function calls itself with a simplified version of the original problem every time
+
+---------
+
+### <3
