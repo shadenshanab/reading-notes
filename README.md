@@ -7,3 +7,5 @@
 - class-01: <https://shadenshanab.github.io/reading-notes/code-401-python/class-01/>
 
 - class-02: <https://shadenshanab.github.io/reading-notes/code-401-python/class-02/>
+
+- class-03: <https://shadenshanab.github.io/reading-notes/code-401-python/class-03/>
