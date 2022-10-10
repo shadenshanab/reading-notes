@@ -11,3 +11,6 @@
 - class-03: <https://shadenshanab.github.io/reading-notes/code-401-python/class-03/>
 
 - class-04: <https://shadenshanab.github.io/reading-notes/code-401-python/class-04/>
+
+- class-05: <https://shadenshanab.github.io/reading-notes/code-401-python/class-05/>
+
