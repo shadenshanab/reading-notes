@@ -1,6 +1,6 @@
 # class 06
 
-## Design Patterns
+## Dependency Injection
 
 ----------------
 
