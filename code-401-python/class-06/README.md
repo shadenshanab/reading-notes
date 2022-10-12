@@ -75,7 +75,7 @@ Allows for loose coupling, which is essential in application programming.
 
 1. Creational Patterns:
 
-### Creational patterns enable the instantiation of single or groups of objects. Making it easier to create objects that are situationally appropriate.
+#### Creational patterns enable the instantiation of single or groups of objects. Making it easier to create objects that are situationally appropriate.
 
 - Factory Method. The factory pattern is used to replace class constructors, abstracting the process of object generation so that the type of the object instantiated can be determined at run-time.
 
@@ -85,7 +85,7 @@ Allows for loose coupling, which is essential in application programming.
 
 2. Structural Patterns:
 
-### Structural patterns provide a manner to define relationships between classes or objects. Making it easier for these entities to work together.
+#### Structural patterns provide a manner to define relationships between classes or objects. Making it easier for these entities to work together.
 
 - Facade. The facade pattern is used to define a simplified interface to a more complex subsystem.
 
@@ -95,7 +95,7 @@ Allows for loose coupling, which is essential in application programming.
 
 3. Behavioral Patterns:
 
-### Behavioral patterns define manners of communication between classes and objects. Making it easier and more flexible for these entities to communicate.
+#### Behavioral patterns define manners of communication between classes and objects. Making it easier and more flexible for these entities to communicate.
 
 - Observer. The observer pattern is used to allow an object to publish changes to its state. Other objects subscribe to be immediately notified of any changes.
 
