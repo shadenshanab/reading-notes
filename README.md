@@ -27,3 +27,5 @@
 - class-12: <https://shadenshanab.github.io/reading-notes/code-401-python/class-12/>
 
 - class-13: <https://shadenshanab.github.io/reading-notes/code-401-python/class-13/>
+
+- class-14: <https://shadenshanab.github.io/reading-notes/code-401-python/class-14/>
