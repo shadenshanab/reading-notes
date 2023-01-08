@@ -59,3 +59,5 @@
 - class-33: <https://shadenshanab.github.io/reading-notes/code-401-python/class-33/>
 
 - class-34: <https://shadenshanab.github.io/reading-notes/code-401-python/class-34/>
+
+- class-35: <https://shadenshanab.github.io/reading-notes/code-401-python/class-35/>
